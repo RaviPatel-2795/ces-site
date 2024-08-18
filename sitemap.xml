@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+		xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+		xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+	<url>
+		<loc>http://www.cessoftware.com/</loc>
+	</url>
+	<url>
+		<loc>http://www.cessoftware.com/index</loc>	
+	</url>
+	<url>
+		<loc>http://www.cessoftware.com/index.php</loc>
+	</url>
+	
+	<url>
+		<loc>http://www.cessoftware.com/ces-touch</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch.php</loc>
+	</url>
+	
+	<url>
+		<loc>http://www.cessoftware.com/ces-intelligence</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-intelligence.php</loc>
+	</url>
+	
+	
+	<url>
+	  <loc>http://www.cessoftware.com/the-company</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/the-company.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/request-login</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/request-login.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/conditions-of-use</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/conditions-of-use.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/privacy-policy</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/privacy-policy.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_pubs-bars-clubs</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_pubs-bars-clubs.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_cafes-delis</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_cafes-delis.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_restaurants</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_restaurants.php</loc>
+	</url>
+
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_fastfood-takeaways</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_fastfood-takeaways.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_convenience</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_convenience.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_newsagents</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_newsagents.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_hotels</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_hotels.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_wholesale</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/ces-touch_wholesale.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/site-map</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/site-map.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/errors/not_found</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/errors/not_found.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/login</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/login.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/index</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/index.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/faqs</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/faqs.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/downloads</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/downloads.php</loc>
+	</url>
+	
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/contact-us</loc>
+	</url>
+	<url>
+	  <loc>http://www.cessoftware.com/dealers/contact-us.php</loc>
+	</url>
+	
+</urlset>
